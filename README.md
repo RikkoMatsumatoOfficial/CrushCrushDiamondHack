@@ -1,0 +1,2 @@
+# CrushCrushDiamondHack
+CrushCrushDiamondHack by RikkoMatsumatoOfficial

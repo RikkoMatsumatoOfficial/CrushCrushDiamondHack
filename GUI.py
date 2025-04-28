@@ -27,5 +27,5 @@ class DPG_GUI:
         with dpg.window(label="CrushCrushDiamondHack by RikkoMatsumatoOfficial", tag="crushcrushwindowdiamond", height=Set_Height(800), width=Set_Width(800)):
             dpg.add_slider_int(label="Diamond to Hack!!!", min_value=0, max_value=45000000, tag="diamondhackcrushcrush")
             dpg.add_button(label="Set Diamond!!!", tag="buttonhackdiamond", callback=CallHackDiamond)
-            dpg.add_text("This is My First Trying Hack Crush Crush(Game by Sadpanda!!!)... \nSo Enjoy to use this!!!")
+            dpg.add_text("This is My First Trying Hack Diamonds for Game Crush Crush(Developed by Sadpanda!!!)... \nSo Enjoy to use this!!!")
         DPG_GUI.DPG_CreateViewport("CrushCrushDiamondHack by RikkoMatsumatoOfficial", Set_Height(800), Set_Width(800), "crushcrushwindowdiamond")
